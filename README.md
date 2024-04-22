@@ -166,3 +166,37 @@ Aside: I am new to open source, work full-time,  and have young kids, please bea
 ## License
 This project is licensed under the terms of the MIT License. See [LICENSE](LICENSE) for more details.
 
+
+# Bulldog.app
+
+## Description 
+
+Bulldog.app 是一個基於 Streamlit 建構的聊天機器人應用，旨在提供金融知識和金融法律的相關資訊。 該應用程式包含四個主要部分：首頁、金融知識聊天機器人、金融法律聊天機器人和常見問題（FAQ）。
+
+這個 README 會包含:
+- Fuctions
+- Code structure
+- Accessing the app
+- Running the app Locally
+- Contributions
+- License
+
+## Fuctions
+
+- **首頁**: 引導使用者進入選擇主題。
+- **金融知識**: 使用者可以透過聊天機器人形式查詢金融相關知識。
+- **金融法律**: 使用者可以透過聊天機器人形式查詢金融相關法律。
+- **常見問題**: 提供金融常見問題的答案。
+
+## Accessing the app
+
+
+## Description 
+歡迎對專案做出貢獻！ 如果您有改進意見或功能增加的建議，請遵循以下步驟：
+
+## License
+本項目採用 MIT 許可證。 有關詳細信息，請查看 LICENSE 文件。
+
+## Contact us
+如果您有任何問題，請將問題傳於此「google form link」。
+

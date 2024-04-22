@@ -7,7 +7,7 @@ def switch_page(page_name: str):
 
     page_name = standardize_name(page_name)
 
-    pages = get_pages("home.py")  # OR whatever your main page is called
+    pages = get_pages("home.py") 
 
     for page_hash, config in pages.items():
         if standardize_name(config["page_name"]) == page_name:
